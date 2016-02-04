@@ -1,0 +1,24 @@
+# Java files
+*.class
+*.jar
+*.ear
+*.war
+bin/
+classes/
+
+#eclipse files
+.classpath
+.project
+*.prefs
+
+
+# Maven files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
