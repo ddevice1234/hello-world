@@ -1,5 +1,5 @@
 
-public class ClassToDelete {
+public class ClassToRename {
 
 	/**
 	 * @param args
