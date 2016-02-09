@@ -1,5 +1,5 @@
 
-public class ClassToRename {
+public class ClassToRename2 {
 
 	/**
 	 * @param args
