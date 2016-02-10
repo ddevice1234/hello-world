@@ -6,14 +6,6 @@
 bin/
 classes/
 
-<<<<<<< HEAD
-#eclipse files
-.classpath
-.project
-*.prefs
-
-=======
->>>>>>> branch 'master' of https://github.com/ddevice1234/hello-world.git
 
 # Maven files
 target/
