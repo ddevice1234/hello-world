@@ -1,6 +1,6 @@
 package test;
 
-public class TestClass2 {
+public class TestClass3 {
 
 	/**
 	 * @param args
