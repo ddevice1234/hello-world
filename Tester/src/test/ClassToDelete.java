@@ -1,6 +1,6 @@
 package test;
 
-public class ClassToRename2 {
+public class ClassToDelete {
 
 	/**
 	 * @param args
