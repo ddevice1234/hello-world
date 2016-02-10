@@ -1,5 +1,6 @@
+package test;
 
-public class TestClass {
+public class ClassToRename2 {
 
 	/**
 	 * @param args
@@ -9,7 +10,6 @@ public class TestClass {
 	 */
 	public static void main(String[] args) {
 
-		//this is my algorithm
 		int big = 35000; 
 		System.out.println((short) big);
 	}

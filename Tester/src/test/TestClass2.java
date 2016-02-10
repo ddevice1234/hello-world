@@ -1,5 +1,6 @@
+package test;
 
-public class ClassToRename2 {
+public class TestClass2 {
 
 	/**
 	 * @param args
