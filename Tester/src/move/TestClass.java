@@ -1,4 +1,4 @@
-package test;
+package move;
 
 public class TestClass {
 
