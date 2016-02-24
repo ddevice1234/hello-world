@@ -20,6 +20,7 @@ public class TestClass {
 	
 	public void doSomthing() {
 		System.out.println("I am doing something");
+		System.out.println("It is really great");
 	}
 
 }
