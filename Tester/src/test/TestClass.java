@@ -6,9 +6,8 @@ public class TestClass {
 	/**
 	 * @param args
 	 * 
-	 * Hello I am Sam
-
-	 * Hello I am Dana
+	 * Sam
+	 * Dana
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -21,7 +20,7 @@ public class TestClass {
 	}
 	
 	public void doSomthing() {
-		
+		System.out.println("I am doing something");
 	}
 
 }
