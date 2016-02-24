@@ -6,7 +6,7 @@ public class TestClass {
 	/**
 	 * @param args
 	 * 
-	 * Hello I am Sam
+	 * Author: Sam
 
 	 * Hello I am Dana
 	 * @param args
@@ -20,8 +20,5 @@ public class TestClass {
 		System.out.println(small);
 	}
 	
-	public void doSomthing() {
-		
-	}
 
 }
