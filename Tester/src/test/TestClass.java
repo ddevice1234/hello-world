@@ -6,8 +6,7 @@ public class TestClass {
 	/**
 	 * @param args
 	 * 
-	 * Sam
-	 * Dana
+	 * Author: Sam
 	 * @param args
 	 */
 	public static void main(String[] args) {
